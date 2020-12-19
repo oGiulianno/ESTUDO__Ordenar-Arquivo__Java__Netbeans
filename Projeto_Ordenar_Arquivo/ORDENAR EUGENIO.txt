@@ -1,0 +1,9 @@
+ordenar
+- pelo nome
+- pelo sobre nome
+- enfase e nome
+- curso e nome
+- situação e nome
+- situação, curso e nome
+- enfase, curso e nome
+- curso, enfase e nome
